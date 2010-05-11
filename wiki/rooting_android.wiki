@@ -2,15 +2,17 @@ This entry describe how to root Nexus One with Android build number ERD79.
 
 = Introduction =
 
-Add your content here.
+In order for us to implement our application, we had to root the nexus one to read and write device input files.
 
 
-= Details =
+= Step 1: Unlocking bootloader=
+* Connect the Nexus One to your computer which has Android SDK tool downloaded.
+* Reboot the Nexus One into fastboot (Power off and then hold down trackball while booting).
+* Type *fastboot devices* in command line to check device is recognized.
+* Type *fastboot oem unlock*
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+
+
 
 = References =
 * http://androidandme.com/2010/01/hacks/video-how-to-unlock-and-root-a-nexus-one/
