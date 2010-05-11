@@ -1,0 +1,16 @@
+This entry describe how to root Nexus One with Android build number ERD79.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+= References =
+* http://androidandme.com/2010/01/hacks/video-how-to-unlock-and-root-a-nexus-one/
