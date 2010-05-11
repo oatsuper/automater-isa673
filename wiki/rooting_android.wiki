@@ -22,6 +22,8 @@ In order for us to implement our application, we had to root the nexus one to re
   * For linux --> install-superboot-linux.sh & for Mac -->install-superboot-mac.sh
   * You should have unlocked rooted Nexus One now.
 
+== Restoring ==
+If you happen to brick the phone or the phone stopped working, you can restore the original android images from [http://android.modaco.com/content/google-nexus-one-nexusone-modaco-com/300414/10-may-erd79-epf21b-stock-rom-for-nexus-one-images-zip-online-kitchen-optional-root-insecure-himem/ here]
 
 = References =
   * http://androidandme.com/2010/01/hacks/video-how-to-unlock-and-root-a-nexus-one/
