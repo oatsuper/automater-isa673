@@ -23,7 +23,12 @@ In order for us to implement our application, we had to root the nexus one to re
   * You should have unlocked rooted Nexus One now.
 
 == Restoring ==
-If you happen to brick the phone or the phone stopped working, you can restore the original android images from [http://android.modaco.com/content/google-nexus-one-nexusone-modaco-com/300414/10-may-erd79-epf21b-stock-rom-for-nexus-one-images-zip-online-kitchen-optional-root-insecure-himem/ here]
+  * If you happen to brick the phone or the phone stopped working, you can restore the original android images from [http://android.modaco.com/content/google-nexus-one-nexusone-modaco-com/300414/10-may-erd79-epf21b-stock-rom-for-nexus-one-images-zip-online-kitchen-optional-root-insecure-himem/ here]
+  * The command to flash would be --> ./fastboot-windows.exe <partition> <image_file> 
+  ** fastboot-windows.exe : executable that comes with superboot.
+  ** <partition> : {boot, recover, system, userdata,...}
+  ** <image_file> : {boot.img, recover.img, system.img, userdata.img, ... }
+
 
 = References =
   * http://androidandme.com/2010/01/hacks/video-how-to-unlock-and-root-a-nexus-one/
