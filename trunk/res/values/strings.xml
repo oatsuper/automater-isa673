@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Automater</string>
+    <string name="record_new">Record New</string>
+    <string name="delete_all">Delete All</string>
+    <string name="menu_delete">Delete This</string>
+    <string name="record">Record</string>
+    <string name="app">Application</string>
+    <string name="desc">Description</string>
+    <string name="replay">Replay Recording</string>
+    <string name="replay_count">Replay Count (integer)</string>
+</resources>
