@@ -10,6 +10,9 @@ In order for us to implement our application, we had to root the nexus one to re
   * Reboot the Nexus One into fastboot (Power off and then hold down trackball while booting).
   * Type *fastboot devices* in command line to check device is recognized.
   * Type *fastboot oem unlock* to unlock the bootloader.
+  * Use volume keys to navigate to yes and press the power button to confirm.
+  * You should see unlocked after you reboot the phone. 
+  * http://automater-isa673.googlecode.com/files/unlocked.jpg
 
 == Step 2: Rooting ==
   * Download and extract superboot for ERD79 at http://coblitz.codeen.org/www.romraid.com/paul/nexusone/1.1-ERD79-nexusone-superboot.zip.  If you have different build version, then check Paul's superboot forum for other versions.
