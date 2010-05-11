@@ -6,13 +6,13 @@ In order for us to implement our application, we had to root the nexus one to re
 
 
 = Step 1: Unlocking bootloader=
-* Connect the Nexus One to your computer which has Android SDK tool downloaded.
-* Reboot the Nexus One into fastboot (Power off and then hold down trackball while booting).
-* Type *fastboot devices* in command line to check device is recognized.
-* Type *fastboot oem unlock*
+  * Connect the Nexus One to your computer which has Android SDK tool downloaded.
+  * Reboot the Nexus One into fastboot (Power off and then hold down trackball while booting).
+  * Type *fastboot devices* in command line to check device is recognized.
+  * Type *fastboot oem unlock*
 
 
 
 
 = References =
-* http://androidandme.com/2010/01/hacks/video-how-to-unlock-and-root-a-nexus-one/
+  * http://androidandme.com/2010/01/hacks/video-how-to-unlock-and-root-a-nexus-one/
