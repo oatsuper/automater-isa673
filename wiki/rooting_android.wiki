@@ -17,6 +17,7 @@ In order for us to implement our application, we had to root the nexus one to re
   * connect the phone to your computer and boot the phone into bootloader by holding down trackball while booting.
   * On windows, load the superboot by *install-superboot-windows.bat*.
   * For linux --> install-superboot-linux.sh & for Mac -->install-superboot-mac.sh
+  * You should have unlocked rooted Nexus One now.
 
 
 = References =
