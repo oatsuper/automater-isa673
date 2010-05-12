@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Battery Profiler</string>
+    <string name="record_new">Record New</string>
+    <string name="report_view">View Report</string>
+    <string name="delete_all">Delete All</string>
+    <string name="menu_delete">Delete This</string>
+    <string name="record">Record</string>
+    <string name="app">Application</string>
+    <string name="desc">Description</string>
+    <string name="interval">Capture Interval (secs)</string>
+</resources>
