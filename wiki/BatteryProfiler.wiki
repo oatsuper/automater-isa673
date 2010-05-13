@@ -7,7 +7,7 @@ BatteryProfiler Captures the battery state at specified intervals and displays t
 
 = Details =
 
-AutoDroid consists of 6 Java files and 3 xml layouts. Following is the description grouped by type:
+BatteryProfiler consists of 6 Java files and 3 xml layouts. Following is the description grouped by type:
 
  = Activities =
  * Battery.java - The main Activity that lists all the saved captures and allows the users to delete them or create a new capture.
