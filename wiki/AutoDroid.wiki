@@ -24,7 +24,7 @@ AutoDroid consists of 8 Java files and 4 xml layouts. Following is the descripti
  * RecordService.java - It is a background service that gets called by Record.java to capture the raw input events into the database.
 
  = Database =
- * AutoDroidAdapter.java - This is a row mapping Cursor class.
+ * AutoDroidAdapter.java - This is a row mapper that extends SimpleCursorAdapter class.
 
  * AutoDroidDbAdapter.java - This class contains all connection and database support for the AutoDroid application.
 
