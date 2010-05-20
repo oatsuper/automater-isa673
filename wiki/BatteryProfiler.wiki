@@ -1,4 +1,4 @@
-#summary AutoDroid Documentation
+#summary BatteryProfiler Documentation
 
 = Introduction =
 
